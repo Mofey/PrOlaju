@@ -34,8 +34,9 @@
   border-radius: var(--border-radius);
 }
 
-.code {
-  font-weight: 700;
+
+.prolaju {
+  font-weight: 2000;
   font-family: var(--font-mono);
 }
 
