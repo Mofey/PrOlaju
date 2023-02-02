@@ -3,7 +3,7 @@ import styles from '/styles/footer.module.css';
 const Footer = () => (
   <div className={`${styles.prolaju__footer} section__padding`}>
     <div className={styles.prolaju__footer_heading}>
-      <h1 className="gradient__text">Do you want to step in to the future before others?</h1>
+      <h1 className="gradient__text">Do you want to step into the future before others?</h1>
     </div>
 
     <div className={styles.prolaju__footer_btn}>
