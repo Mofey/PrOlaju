@@ -4,7 +4,7 @@ import styles from '/styles/features.module.css';
 const featuresData = [
   {
     title: 'Connecting to an international scout instantly',
-    text: 'At PrOlaju, there are various subscription plans, depending on the plan you subscribe for, will determine the kind of scout you connect with. Either local or international',
+    text: 'At PrOlaju, there are various subscription plans, depending on the plan you subscribe for, will determine the kind of scout you connect with. Either local or international.',
   },
   {
     title: 'Become the needed athlete',
